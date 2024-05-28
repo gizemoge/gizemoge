@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Gizem 🍂
 
-📖 I am currently reading *Python Data Science Handbook: Essential Tools for Working with Data* and *Naked Statistics: Stripping the Dread from the Data* <br/>
+📖 I am currently reading <br/>*Python Data Science Handbook: Essential Tools for Working with Data* <br/>*Naked Statistics: Stripping the Dread from the Data* <br/>
 
