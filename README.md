@@ -22,4 +22,6 @@ Here are some ideas to get you started:
  *Naked Statistics: Stripping the Dread from the Data* <br/>
 
 
+I love everything about reading and data! Consequently, writing, critical thinking, coding, academia, and business problem-solving have become natural byproducts.
 
+Feel free to connect with me on LinkedIn 💬
