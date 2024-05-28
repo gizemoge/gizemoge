@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey 🍂
+### Hello 🍂
 
 👩‍💻 I am engaged in [İstanbul Kodluyor](https://istanbulkodluyor.com/istanbul-kodluyor) project at present. 
 <br><br/>
