@@ -19,3 +19,5 @@ Here are some ideas to get you started:
  > *Python Data Science Handbook: Essential Tools for Working with Data* <br/>
  *Naked Statistics: Stripping the Dread from the Data* <br/>
 
+👩‍💻 I am currently engaged in [Istanbul Kodluyor](https://istanbulkodluyor.com/istanbul-kodluyor) project. 
+
