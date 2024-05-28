@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👩‍💻 I am engaged in [İstanbul Kodluyor](https://istanbulkodluyor.com/istanbul-kodluyor) project at present. 
 <br><br/>
-I love everything about reading and data! Consequently, writing, critical thinking, coding, academia, and business problem-solving have become natural byproducts.<br/>
+I love everything about reading and data! Consequently, writing, critical thinking, academia, coding, and business problem-solving have become natural byproducts.<br/>
 Feel free to connect with me on LinkedIn 💬
 <br><br/>
 📖 Currently reading <br/>
