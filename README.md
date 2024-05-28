@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 ### Hey, I'm Gizem 🍂
 
 👩‍💻 I am engaged in [İstanbul Kodluyor](https://istanbulkodluyor.com/istanbul-kodluyor) project at present. <br/>
+I love everything about reading and data! Consequently, writing, critical thinking, coding, academia, and business problem-solving have become natural byproducts.
+Feel free to connect with me on LinkedIn 💬
 <br><br/>
 📖 Currently reading <br/>
  > *Python Data Science Handbook: Essential Tools for Working with Data* <br/>
  *Naked Statistics: Stripping the Dread from the Data* <br/>
 
-<br><br/>
-I love everything about reading and data! Consequently, writing, critical thinking, coding, academia, and business problem-solving have become natural byproducts.
-Feel free to connect with me on LinkedIn 💬
+
