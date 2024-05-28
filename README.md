@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Hey, I'm Gizem 🍂
 
 👩‍💻 I am engaged in [İstanbul Kodluyor](https://istanbulkodluyor.com/istanbul-kodluyor) project at present. <br/>
+<br><br/>
 I love everything about reading and data! Consequently, writing, critical thinking, coding, academia, and business problem-solving have become natural byproducts.
 Feel free to connect with me on LinkedIn 💬
 <br><br/>
