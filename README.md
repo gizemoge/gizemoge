@@ -25,5 +25,14 @@ Feel free to connect with me on LinkedIn 💬
  > *Python Data Science Handbook: Essential Tools for Working with Data*  ![23%](https://progress-bar.dev/23)  <br/>
  *Naked Statistics: Stripping the Dread from the Data*  ![15%](https://progress-bar.dev/15)  <br/>
 
+> <div style="display: flex; align-items: center;">
+  <em style="margin-right: 10px;">Python Data Science Handbook: Essential Tools for Working with Data</em>
+  <img src="https://progress-bar.dev/23" alt="23%" style="width: 100px; height: 20px;">
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
+  <em style="margin-right: 10px;">Naked Statistics: Stripping the Dread from the Data</em>
+  <img src="https://progress-bar.dev/15" alt="15%" style="width: 100px; height: 20px;">
+</div>
 
 
