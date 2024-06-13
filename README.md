@@ -22,7 +22,7 @@ I love everything about reading and data! Consequently, writing, critical thinki
 Feel free to connect with me on LinkedIn 💬
 <br><br/>
 📖 Currently reading <br/>
-> *Python Data Science Handbook: Essential Tools for Working with Data* <img src="https://progress-bar.dev/23" alt="23%" style="width: 75px; height: 12px; margin-left: 10px;"> <br/>
- *Naked Statistics: Stripping the Dread from the Data* <img src="https://progress-bar.dev/15" alt="15%" style="width: 75px; height: 12px; margin-left: 10px;"> <br/>
+ > *Python Data Science Handbook: Essential Tools for Working with Data* <pre> !<img src="https://progress-bar.dev/23" alt="23%" style="width: 75px; height: 12px;">  <br/>
+ *Naked Statistics: Stripping the Dread from the Data* <pre> <img src="https://progress-bar.dev/15" alt="15%" style="width: 75px; height: 12px;">  <br/> 
 
 
