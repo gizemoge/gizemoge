@@ -33,6 +33,6 @@ Feel free to connect with me on LinkedIn 💬
 <br/>
 <div style="display: flex; align-items: center;">
   <span style="margin-right: 10px;">*Naked Statistics: Stripping the Dread from the Data*</span>
-  <img src="https://progress-bar.dev/15" alt="15%" style="width: 100px; height: 20px;">
+  <img src="https://progress-bar.dev/15" alt="15%" style="width: 50px; height: 10px;">
 </div>
 
