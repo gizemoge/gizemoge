@@ -23,6 +23,6 @@ Feel free to connect with me on LinkedIn 💬
 <br><br/>
 📖 Currently reading <br/>
  > *Python Data Science Handbook: Essential Tools for Working with Data* <img src="https://progress-bar.dev/60" alt="60%" style="width: 75px; height: 12px;">  <br/>
- *Naked Statistics: Stripping the Dread from the Data*  <img src="https://progress-bar.dev/36" alt="36%" style="width: 75px; height: 12px;">  <br/> 
+ *Naked Statistics: Stripping the Dread from the Data*  <img src="https://progress-bar.dev/44" alt="44%" style="width: 75px; height: 12px;">  <br/> 
 
 
