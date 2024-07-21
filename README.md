@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 🍂 Hello 🍂
 
-👩‍💻 I am engaged in [İstanbul Kodluyor](https://istanbulkodluyor.com/istanbul-kodluyor) project at present. 
+👩‍💻 I am engaged in [Istanbul Kodluyor](https://istanbulkodluyor.com/istanbul-kodluyor) project at present. 
 <br><br/>
 I love everything about data and reading! Consequently, writing, critical thinking, academia, coding, and business problem-solving have become natural byproducts.
 <br><br/>
