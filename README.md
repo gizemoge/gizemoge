@@ -23,5 +23,7 @@ Feel free to connect with me on LinkedIn 💬
 <br><br/>
 📖 Currently reading <br/>
  > *Python Data Science Handbook: Essential Tools for Working with Data*  ![60%](https://geps.dev/progress/60)
+ > *Python Data Science Handbook: Essential Tools for Working with Data*  <img src="https://progress-bar.dev/60?width=100&height=10" alt="60%" />
+
 
 
