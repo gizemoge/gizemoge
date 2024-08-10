@@ -25,4 +25,4 @@ Feel free to connect with me on LinkedIn 💬
  > *Python Data Science Handbook: Essential Tools for Working with Data* <img src="https://progress-bar.dev/60" alt="60%" style="width: 75px; height: 12px;">  <br/>
 
 
-
+![60%](https://progress-bar.dev/60)
