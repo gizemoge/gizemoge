@@ -22,7 +22,7 @@ I love everything about data and reading! Consequently, writing, critical thinki
 Feel free to connect with me on LinkedIn 💬
 <br><br/>
 📖 Currently reading <br/>
- > *Python Data Science Handbook: Essential Tools for Working with Data*  ![60%](https://geps.dev/progress/60)
+ > *Python Data Science Handbook: Essential Tools for Working with Data*  ![70%](https://geps.dev/progress/70)
 
 
 
