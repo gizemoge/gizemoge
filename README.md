@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br><br/>
 I love everything about data and reading! Consequently, writing, critical thinking, academia, coding, and business problem-solving have become natural byproducts.
 <br><br/>
-Feel free to connect with me on LinkedIn 💬
+Please feel free to connect with me on LinkedIn 💬
 <br><br/>
 📖 Currently reading <br/>
  > *Python Data Science Handbook: Essential Tools for Working with Data*  ![70%](https://geps.dev/progress/70)
