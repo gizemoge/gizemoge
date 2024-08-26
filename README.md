@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### 🍂 Hello 🍂
-
 <br><br/>
 I love everything about data and reading! Consequently, writing, critical thinking, academia, coding, and business problem-solving have become natural byproducts.
 <br><br/>
