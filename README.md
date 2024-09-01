@@ -20,4 +20,4 @@ I love everything about data and reading! Consequently, writing, critical thinki
 Please feel free to connect with me on LinkedIn 💬
 <br><br/>
 📖 Currently reading <br/>
- > *Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks*    ![0%](https://geps.dev/progress/0)
+ > *Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks*    ![20%](https://geps.dev/progress/20)
