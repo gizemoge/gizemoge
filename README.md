@@ -21,6 +21,3 @@ Please feel free to connect with me on LinkedIn 💬
 <br><br/>
 📖 Currently reading <br/>
  > *Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks*    ![20%](https://geps.dev/progress/20)
-<br><br/>
-<br><br/>
-<img alt="my stats" align="left" width="4%" src="https://github-readme-stats.vercel.app/api?username=gizemoge"/>
