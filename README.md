@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 🐌☕🍂 Hello 🌼🍊📙
 
-I love everything about data and reading! Consequently, writing, critical thinking, academia, coding, and business problem-solving have become natural byproducts.
+I love everything about data analytics and reading! Consequently, writing, critical thinking, academia, coding, and business problem-solving have become natural byproducts.
 <br><br/>
 Please feel free to connect with me on LinkedIn 💬
 <br><br/>
