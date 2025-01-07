@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">🐌☕🍂 Hello 🌼🍊📙</h3>
+<h3 align="center">🐌☕🍂 Hello! 🌼🍊📙</h3>
 
 
 
