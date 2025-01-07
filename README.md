@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🐌☕🍂 Hello 🌼🍊📙
+<p align="center">
+  ### 🐌☕🍂 Hello 🌼🍊📙
+</p>
+
 
 I love everything about data analytics and reading! Consequently, writing, critical thinking, academia, coding, and business problem-solving have become natural byproducts.
 <br><br/>
