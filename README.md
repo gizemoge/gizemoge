@@ -23,7 +23,5 @@ Feel free to explore my portfolio [here](https://gizemoge.github.io/) 📁
 <br>
 Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/gizemoge/) 💬
 <br>
-Let’s swap book recs on [Goodreads](https://www.goodreads.com/user/show/99587345-gizem-ge) 📜🪶
-<br><br/>
 📖 Currently reading <br/>
  > *Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks*    ![20%](https://geps.dev/progress/20)
