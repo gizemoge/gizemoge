@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 I love everything about data analytics and reading! Consequently, writing, critical thinking, academia, coding, and business problem-solving have become natural byproducts.
 <br><br/>
-Feel free to explore my portfolio [here](https://gizemoge.github.io/) 📁
-<br>
 Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/gizemoge/) 💬
 <br>
 <br>
