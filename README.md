@@ -23,5 +23,6 @@ Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/gize
 <br>
 Let's read together! -> [Goodreads](https://www.goodreads.com/user/show/99587345-gizem-ge)
 <br>
+<br>
 📖 Currently reading <br/>
  > *Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks*    ![20%](https://geps.dev/progress/20)
